@@ -1,0 +1,237 @@
+n00015388 animal, animate being, beast, brute, creature, fauna : root : 2 : n01886756 n01317541
+--- 50 : antelope grizzly+bear killer+whale beaver dalmatian persian+cat horse german+shepherd blue+whale siamese+cat skunk mole tiger hippopotamus leopard moose spider+monkey humpback+whale elephant gorilla ox fox sheep seal chimpanzee hamster squirrel rhinoceros rabbit bat giraffe wolf chihuahua rat weasel otter buffalo zebra giant+panda deer bobcat pig lion mouse polar+bear collie walrus raccoon cow dolphin
+
+n01886756 placental, placental mammal, eutherian, eutherian mammal : n00015388 : 9 : n02370806 n02075296 n02062017 n02329401 n01889520 n02469914 n02503517 n02328429 n02139199
+--- 44 : antelope grizzly+bear killer+whale beaver horse blue+whale skunk mole tiger hippopotamus leopard moose spider+monkey humpback+whale elephant gorilla ox fox sheep seal chimpanzee hamster squirrel rhinoceros rabbit bat giraffe wolf rat weasel otter buffalo zebra giant+panda deer bobcat pig lion mouse polar+bear walrus raccoon cow dolphin
+
+n02370806 ungulate, hoofed mammal : n01886756 : 2 : n02394477 n02373336
+--- 13 : antelope horse hippopotamus moose ox sheep rhinoceros giraffe buffalo zebra deer pig cow
+
+n02394477 even-toed ungulate, artiodactyl, artiodactyl mammal : n02370806 : 3 : n02399000 n02398521 n02395406
+--- 10 : antelope hippopotamus moose ox sheep giraffe buffalo deer pig cow
+
+n02399000 ruminant : n02394477 : 3 : n02401031 n02430045 n02439033
+--- 8 : antelope moose ox sheep giraffe buffalo deer cow
+
+n02401031 bovid : n02399000 : 4 : n02419796 n02402010 n02411705 n02407959
+--- 5 : antelope ox sheep buffalo cow
+
+n02419796 antelope : n02401031 : 0 :
+--- 1 : antelope
+
+n02075296 carnivore : n01886756 : 5 : n02131653 n02441326 n02120997 n02083346 n02507649
+--- 13 : grizzly+bear skunk tiger leopard fox wolf weasel otter giant+panda bobcat lion polar+bear raccoon
+
+n02131653 bear : n02075296 : 2 : n02132580 n02134084
+--- 2 : grizzly+bear polar+bear
+
+n02132580 grizzly, grizzly bear, silvertip, silver-tip, Ursus horribilis, Ursus arctos horribilis : n02131653 : 0 :
+--- 1 : grizzly+bear
+
+n02062017 aquatic mammal : n01886756 : 2 : n02062744 n02075927
+--- 6 : killer+whale blue+whale humpback+whale seal walrus dolphin
+
+n02062744 whale : n02062017 : 2 : n02068974 n02063224
+--- 4 : killer+whale blue+whale humpback+whale dolphin
+
+n02068974 dolphin : n02062744 : 2 : n02071294 n02072040
+--- 2 : killer+whale dolphin
+
+n02071294 killer whale, killer, orca, grampus, sea wolf, Orcinus orca : n02068974 : 0 :
+--- 1 : killer+whale
+
+n02329401 rodent, gnawer : n01886756 : 5 : n02363005 n02342885 n02355227 n02331046 n02330245
+--- 5 : beaver hamster squirrel rat mouse
+
+n02363005 beaver : n02329401 : 0 :
+--- 1 : beaver
+
+n01317541 domestic animal, domesticated animal : n00015388 : 2 : n02084071 n02121808
+--- 6 : dalmatian persian+cat german+shepherd siamese+cat chihuahua collie
+
+n02084071 dog, domestic dog, Canis familiaris : n01317541 : 3 : n02110341 n02104523 n02085620
+--- 4 : dalmatian german+shepherd chihuahua collie
+
+n02110341 dalmatian, coach dog, carriage dog : n02084071 : 0 :
+--- 1 : dalmatian
+
+n02121808 domestic cat, house cat, Felis domesticus, Felis catus : n01317541 : 2 : n02123394 n02123597
+--- 2 : persian+cat siamese+cat
+
+n02123394 Persian cat : n02121808 : 0 :
+--- 1 : persian+cat
+
+n02373336 odd-toed ungulate, perissodactyl, perissodactyl mammal : n02370806 : 2 : n02374149 n02391994
+--- 3 : horse rhinoceros zebra
+
+n02374149 equine, equid : n02373336 : 2 : n02374451 n02391049
+--- 2 : horse zebra
+
+n02374451 horse, Equus caballus : n02374149 : 0 :
+--- 1 : horse
+
+n02104523 shepherd dog, sheepdog, sheep dog : n02084071 : 2 : n02106662 n02106030
+--- 2 : german+shepherd collie
+
+n02106662 German shepherd, German shepherd dog, German police dog, alsatian : n02104523 : 0 :
+--- 1 : german+shepherd
+
+n02063224 baleen whale, whalebone whale : n02062744 : 2 : n02064816 n02065726
+--- 2 : blue+whale humpback+whale
+
+n02064816 blue whale, sulfur bottom, Balaenoptera musculus : n02063224 : 0 :
+--- 1 : blue+whale
+
+n02123597 Siamese cat, Siamese : n02121808 : 0 :
+--- 1 : siamese+cat
+
+n02441326 musteline mammal, mustelid, musteline : n02075296 : 3 : n02445715 n02441942 n02444819
+--- 3 : skunk weasel otter
+
+n02445715 skunk, polecat, wood pussy : n02441326 : 0 :
+--- 1 : skunk
+
+n01889520 mole : n01886756 : 0 :
+--- 1 : mole
+
+n02120997 feline, felid : n02075296 : 2 : n02127808 n02127482
+--- 4 : tiger leopard bobcat lion
+
+n02127808 big cat, cat : n02120997 : 3 : n02129604 n02128385 n02129165
+--- 3 : tiger leopard lion
+
+n02129604 tiger, Panthera tigris : n02127808 : 0 :
+--- 1 : tiger
+
+n02398521 hippopotamus, hippo, river horse, Hippopotamus amphibius : n02394477 : 0 :
+--- 1 : hippopotamus
+
+n02128385 leopard, Panthera pardus : n02127808 : 0 :
+--- 1 : leopard
+
+n02430045 deer, cervid : n02399000 : 2 : n02432983 n02430045_deer
+--- 2 : moose deer
+
+n02432983 elk, European elk, moose, Alces alces : n02430045 : 0 :
+--- 1 : moose
+
+n02469914 primate : n01886756 : 2 : n02493793 n02480153
+--- 3 : spider+monkey gorilla chimpanzee
+
+n02493793 spider monkey, Ateles geoffroyi : n02469914 : 0 :
+--- 1 : spider+monkey
+
+n02065726 humpback, humpback whale, Megaptera novaeangliae : n02063224 : 0 :
+--- 1 : humpback+whale
+
+n02503517 elephant : n01886756 : 0 :
+--- 1 : elephant
+
+n02480153 great ape, pongid : n02469914 : 2 : n02480855 n02481823
+--- 2 : gorilla chimpanzee
+
+n02480855 gorilla, Gorilla gorilla : n02480153 : 0 :
+--- 1 : gorilla
+
+n02402010 bovine : n02401031 : 2 : n02402175 n02402425
+--- 2 : ox cow
+
+n02402175 ox, wild ox : n02402010 : 0 :
+--- 1 : ox
+
+n02083346 canine, canid : n02075296 : 2 : n02118333 n02114100
+--- 2 : fox wolf
+
+n02118333 fox : n02083346 : 0 :
+--- 1 : fox
+
+n02411705 sheep : n02401031 : 0 :
+--- 1 : sheep
+
+n02075927 pinniped mammal, pinniped, pinnatiped : n02062017 : 2 : n02076196 n02081571
+--- 2 : seal walrus
+
+n02076196 seal : n02075927 : 0 :
+--- 1 : seal
+
+n02481823 chimpanzee, chimp, Pan troglodytes : n02480153 : 0 :
+--- 1 : chimpanzee
+
+n02342885 hamster : n02329401 : 0 :
+--- 1 : hamster
+
+n02355227 squirrel : n02329401 : 0 :
+--- 1 : squirrel
+
+n02391994 rhinoceros, rhino : n02373336 : 0 :
+--- 1 : rhinoceros
+
+n02328429 pika, mouse hare, rock rabbit, coney, cony : n01886756 : 0 :
+--- 1 : rabbit
+
+n02139199 bat, chiropteran : n01886756 : 0 :
+--- 1 : bat
+
+n02439033 giraffe, camelopard, Giraffa camelopardalis : n02399000 : 0 :
+--- 1 : giraffe
+
+n02114100 wolf : n02083346 : 0 :
+--- 1 : wolf
+
+n02085620 Chihuahua : n02084071 : 0 :
+--- 1 : chihuahua
+
+n02331046 rat : n02329401 : 0 :
+--- 1 : rat
+
+n02441942 weasel : n02441326 : 0 :
+--- 1 : weasel
+
+n02444819 otter : n02441326 : 0 :
+--- 1 : otter
+
+n02407959 Old World buffalo, buffalo : n02401031 : 0 :
+--- 1 : buffalo
+
+n02391049 zebra : n02374149 : 0 :
+--- 1 : zebra
+
+n02507649 procyonid : n02075296 : 2 : n02510455 n02508021
+--- 2 : giant+panda raccoon
+
+n02510455 giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca : n02507649 : 0 :
+--- 1 : giant+panda
+
+n02430045_deer deer : n02430045 : 0 :
+--- 1 : deer
+
+n02127482 bobcat, bay lynx, Lynx rufus : n02120997 : 0 :
+--- 1 : bobcat
+
+n02395406 hog, pig, grunter, squealer, Sus scrofa : n02394477 : 0 :
+--- 1 : pig
+
+n02129165 lion, king of beasts, Panthera leo : n02127808 : 0 :
+--- 1 : lion
+
+n02330245 mouse : n02329401 : 0 :
+--- 1 : mouse
+
+n02134084 ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus : n02131653 : 0 :
+--- 1 : polar+bear
+
+n02106030 collie : n02104523 : 0 :
+--- 1 : collie
+
+n02081571 walrus, seahorse, sea horse : n02075927 : 0 :
+--- 1 : walrus
+
+n02508021 raccoon, racoon : n02507649 : 0 :
+--- 1 : raccoon
+
+n02402425 cattle, cows, kine, oxen, Bos taurus : n02402010 : 0 :
+--- 1 : cow
+
+n02072040 river dolphin : n02068974 : 0 :
+--- 1 : dolphin
+

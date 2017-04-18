@@ -1,1 +1,12 @@
 .idea
+clean.sh
+train.sh
+train_public_models.sh
+test_public_models.sh
+*.caffemodel
+data/IFCB
+LMDBs/AwA/*
+LMDBs/CUB/*
+LMDBs/IFCB
+tools/print_results.py
+*.pyc

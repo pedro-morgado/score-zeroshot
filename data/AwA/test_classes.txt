@@ -1,0 +1,10 @@
+25 chimpanzee
+39 giant+panda
+15 leopard
+6 persian+cat
+42 pig
+14 hippopotamus
+18 humpback+whale
+48 raccoon
+34 rat
+24 seal
