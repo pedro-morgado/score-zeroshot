@@ -1,5 +1,5 @@
 ## Semantically Consistent Regularizer (SCoRe)
-By [Pedro Morgado](svcl.ucsd.edu/~pedro-morgado) and [Nuno Vasconcelos](svcl.ucsd.edu/~nuno).
+By [Pedro Morgado](svcl.ucsd.edu/~morgado) and [Nuno Vasconcelos](svcl.ucsd.edu/~nuno).
 
 Statistical Visual Computing Lab (SVCL)
 
@@ -7,7 +7,7 @@ University of California, San Diego
 
 ### Introduction
 This repository contains the source code for 
-["Semantically Consistent Regularization for Zero-Shot Recognition"](http://www.svcl.ucsd.edu/~pedro-morgado/score/score-cvpr17.pdf), CVPR, 2017.
+["Semantically Consistent Regularization for Zero-Shot Recognition"](http://www.svcl.ucsd.edu/~morgado/score/score-cvpr17.pdf), CVPR, 2017.
 
 Implementation was written by Pedro Morgado.
 If you encounter any issue when using our code/models, let me know.
@@ -92,8 +92,8 @@ These models are compatible with the provided code. Simply download and uncompre
 
 -/- |AwA | CUB
 :---:|:---:|:---:
-Attributes | [AlexNet](http://www.svcl.ucsd.edu/~pedro-morgado/score/models/AwA/AlexNet/SCoRe_Attributes_P0.0005_G0.01_C10.0.tar.gz) / [GoogLeNet](http://www.svcl.ucsd.edu/~morgado/score/models/AwA/GoogLeNet/SCoRe_Attributes_P0.0005_G0.01_C10.0.tar.gz) / [VGG19](http://www.svcl.ucsd.edu/~morgado/score/models/AwA/VGG19/SCoRe_Attributes_P0.0005_G0.01_C10.0.tar.gz) | [AlexNet](http://www.svcl.ucsd.edu/~morgado/score/models/CUB/AlexNet/SCoRe_Attributes_P0.0005_G0.01_C1.0.tar.gz) / [GoogLeNet](http://www.svcl.ucsd.edu/~morgado/score/models/CUB/GoogLeNet/SCoRe_Attributes_P0.0005_G0.01_C1.0.tar.gz) / [VGG19](http://www.svcl.ucsd.edu/~morgado/score/models/CUB/VGG19/SCoRe_Attributes_P0.0005_G0.01_C1.0.tar.gz) 
-Hierarchy  | [AlexNet](http://www.svcl.ucsd.edu/~pedro-morgado/score/models/AwA/AlexNet/SCoRe_Hierarchy_P0.0005_G0.05_C1.0.tar.gz) / [GoogLeNet](http://www.svcl.ucsd.edu/~morgado/score/models/AwA/GoogLeNet/SCoRe_Hierarchy_P0.0005_G0.05_C1.0.tar.gz) / [VGG19](http://www.svcl.ucsd.edu/~morgado/score/models/AwA/VGG19/SCoRe_Hierarchy_P0.0005_G0.05_C1.0.tar.gz) | [AlexNet](http://www.svcl.ucsd.edu/~morgado/score/models/CUB/AlexNet/SCoRe_Hierarchy_P0.0005_G0.05_C5.0.tar.gz) / [GoogLeNet](http://www.svcl.ucsd.edu/~morgado/score/models/CUB/GoogLeNet/SCoRe_Hierarchy_P0.0005_G0.05_C5.0.tar.gz) / [VGG19](http://www.svcl.ucsd.edu/~morgado/score/models/CUB/VGG19/SCoRe_Hierarchy_P0.0005_G0.05_C5.0.tar.gz) | 
-Word2Vec   | [AlexNet](http://www.svcl.ucsd.edu/~pedro-morgado/score/models/AwA/AlexNet/SCoRe_Word2Vec_P0.0005_G0.01_C0.5.tar.gz) / [GoogLeNet](http://www.svcl.ucsd.edu/~morgado/score/models/AwA/GoogLeNet/SCoRe_Word2Vec_P0.0005_G0.01_C0.5.tar.gz) / [VGG19](http://www.svcl.ucsd.edu/~morgado/score/models/AwA/VGG19/SCoRe_Word2Vec_P0.0005_G0.01_C0.5.tar.gz) | [AlexNet](http://www.svcl.ucsd.edu/~morgado/score/models/CUB/AlexNet/SCoRe_Word2Vec_P0.0005_G0.01_C1.0.tar.gz) / [GoogLeNet](http://www.svcl.ucsd.edu/~morgado/score/models/CUB/GoogLeNet/SCoRe_Word2Vec_P0.0005_G0.01_C1.0.tar.gz) / [VGG19](http://www.svcl.ucsd.edu/~morgado/score/models/CUB/VGG19/SCoRe_Word2Vec_P0.0005_G0.01_C1.0.tar.gz) | 
+Attributes | [AlexNet](http://www.svcl.ucsd.edu/~morgado/score/models/AwA/AlexNet/SCoRe_Attributes_P0.0005_G0.01_C10.0.tar.gz) / [GoogLeNet](http://www.svcl.ucsd.edu/~morgado/score/models/AwA/GoogLeNet/SCoRe_Attributes_P0.0005_G0.01_C10.0.tar.gz) / [VGG19](http://www.svcl.ucsd.edu/~morgado/score/models/AwA/VGG19/SCoRe_Attributes_P0.0005_G0.01_C10.0.tar.gz) | [AlexNet](http://www.svcl.ucsd.edu/~morgado/score/models/CUB/AlexNet/SCoRe_Attributes_P0.0005_G0.01_C1.0.tar.gz) / [GoogLeNet](http://www.svcl.ucsd.edu/~morgado/score/models/CUB/GoogLeNet/SCoRe_Attributes_P0.0005_G0.01_C1.0.tar.gz) / [VGG19](http://www.svcl.ucsd.edu/~morgado/score/models/CUB/VGG19/SCoRe_Attributes_P0.0005_G0.01_C1.0.tar.gz) 
+Hierarchy  | [AlexNet](http://www.svcl.ucsd.edu/~morgado/score/models/AwA/AlexNet/SCoRe_Hierarchy_P0.0005_G0.05_C1.0.tar.gz) / [GoogLeNet](http://www.svcl.ucsd.edu/~morgado/score/models/AwA/GoogLeNet/SCoRe_Hierarchy_P0.0005_G0.05_C1.0.tar.gz) / [VGG19](http://www.svcl.ucsd.edu/~morgado/score/models/AwA/VGG19/SCoRe_Hierarchy_P0.0005_G0.05_C1.0.tar.gz) | [AlexNet](http://www.svcl.ucsd.edu/~morgado/score/models/CUB/AlexNet/SCoRe_Hierarchy_P0.0005_G0.05_C5.0.tar.gz) / [GoogLeNet](http://www.svcl.ucsd.edu/~morgado/score/models/CUB/GoogLeNet/SCoRe_Hierarchy_P0.0005_G0.05_C5.0.tar.gz) / [VGG19](http://www.svcl.ucsd.edu/~morgado/score/models/CUB/VGG19/SCoRe_Hierarchy_P0.0005_G0.05_C5.0.tar.gz) | 
+Word2Vec   | [AlexNet](http://www.svcl.ucsd.edu/~morgado/score/models/AwA/AlexNet/SCoRe_Word2Vec_P0.0005_G0.01_C0.5.tar.gz) / [GoogLeNet](http://www.svcl.ucsd.edu/~morgado/score/models/AwA/GoogLeNet/SCoRe_Word2Vec_P0.0005_G0.01_C0.5.tar.gz) / [VGG19](http://www.svcl.ucsd.edu/~morgado/score/models/AwA/VGG19/SCoRe_Word2Vec_P0.0005_G0.01_C0.5.tar.gz) | [AlexNet](http://www.svcl.ucsd.edu/~morgado/score/models/CUB/AlexNet/SCoRe_Word2Vec_P0.0005_G0.01_C1.0.tar.gz) / [GoogLeNet](http://www.svcl.ucsd.edu/~morgado/score/models/CUB/GoogLeNet/SCoRe_Word2Vec_P0.0005_G0.01_C1.0.tar.gz) / [VGG19](http://www.svcl.ucsd.edu/~morgado/score/models/CUB/VGG19/SCoRe_Word2Vec_P0.0005_G0.01_C1.0.tar.gz) | 
 
 
