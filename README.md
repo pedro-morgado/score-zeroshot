@@ -1,5 +1,5 @@
 ## Semantically Consistent Regularizer (SCoRe)
-By [Pedro Morgado](svcl.ucsd.edu/~morgado) and [Nuno Vasconcelos](svcl.ucsd.edu/~nuno).
+By [Pedro Morgado](http://www.svcl.ucsd.edu/~morgado) and [Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno).
 
 Statistical Visual Computing Lab (SVCL)
 
